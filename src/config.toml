@@ -1,7 +1,7 @@
 theme = "hugo-now-ui"
 baseurl = "/"
 relativeurls = true
-languageCode = "en-us"
+languageCode = "ja"
 title = "グルメ・コネクト"
 googleAnalytics = ""
 disqusShortname = ""

@@ -2,7 +2,7 @@ theme = "hugo-now-ui"
 baseurl = "/"
 relativeurls = true
 languageCode = "en-us"
-title = "Now UI Kit"
+title = "グルメ・コネクト"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
@@ -13,27 +13,27 @@ publishDir = "../docs"
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "Components"
+    name = "サンプル"
     url = "/components"
     pre = "<i class='now-ui-icons design_app'></i>"
     weight = 1
 [[menu.main]]
-    name = "Landing"
+    name = "ページ"
     url = "/landing"
     pre = "<i class='now-ui-icons business_bank'></i>"
     weight = 1
 [[menu.main]]
-    name = "Profile"
+    name = "プロフ"
     url = "/profile"
     pre = "<i class='now-ui-icons users_single-02'></i>"
     weight = 2
 [[menu.main]]
-    name = "Signup"
+    name = "サインイン"
     pre = "<i class='now-ui-icons clothes_tie-bow'></i>"
     url = "/login"
     weight = 3
 [[menu.main]]
-    name = "Dropdown"
+    name = "サブメニュー"
     pre = "<i class='now-ui-icons ui-1_settings-gear-63'></i>"
     url = "#"
     weight = 4

@@ -24,3 +24,5 @@ GTS ?Kent LOVE
 
 大井競馬で帝王賞を機械学習で当てた話
 https://qiita.com/ishizakiiii/items/3b894b6e987fdf87093e
+
+テスト

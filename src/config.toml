@@ -78,8 +78,8 @@ publishDir = "../docs"
 [params]
     background = "/img/bg11.jpg"
     tint = "orange"
-    custom_css = ["css/highlight.min.css"]
-    custom_js = []
+    custom_css = ["css/highlight.min.css","css/shards.min.css","css/shards-demo.min.css","css/shards-extras.min.css"]
+    custom_js = ["shards.min.js","demo.min.js"]
     date_format = "Mon, Jan 2, 2006"
     description = "A website built through Hugo and blogdown."
 

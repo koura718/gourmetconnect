@@ -5,11 +5,20 @@
     <link>/categories/r/</link>
     <description>Recent content in R on グルメ・コネクト</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <language>ja</language>
+    <lastBuildDate>Mon, 23 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>こうらのブログ　ポスト000</title>
+      <link>/2018/07/23/example-post-000/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/07/23/example-post-000/</guid>
+      <description> こうらのブログ　ポスト000 </description>
+    </item>
     
     <item>
       <title>example post</title>

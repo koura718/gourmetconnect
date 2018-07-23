@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2018/07/23/example-post-000/</loc>
+    <lastmod>2018-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2017/11/29/example-post/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
   </url>
@@ -36,31 +41,31 @@
   
   <url>
     <loc>/tags/example/</loc>
-    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/hugo/</loc>
-    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/r/</loc>
-    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -73,8 +78,14 @@
   </url>
   
   <url>
+    <loc>/tags/%E3%81%93%E3%81%86%E3%82%89/</loc>
+    <lastmod>2018-07-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

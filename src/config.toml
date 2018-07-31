@@ -76,7 +76,7 @@ publishDir = "../docs"
 
 
 [params]
-    background = "/images/top_header_00.jpg"
+    background = "./images/top_header_00.jpg"
     tint = "black"
     custom_css = ["css/highlight.min.css","css/shards.min.css","css/shards-demo.min.css","css/shards-extras.min.css"]
     custom_js = ["shards.min.js","demo.min.js"]

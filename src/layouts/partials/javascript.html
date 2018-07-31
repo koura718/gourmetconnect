@@ -1,6 +1,6 @@
 <!--   Core JS Files   -->
 <!-- jQuery -->
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
 <!-- Bootstrap4 -->
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
@@ -14,10 +14,24 @@
 <script src="{{"js/plugins/bootstrap-datepicker.js" | relURL }}" type="text/javascript"></script>
 <!-- Control Center for Now Ui Kit: parallax effects, scripts for the example pages etc -->
 <script src="{{"js/now-ui-kit.js?v=1.1.0" | relURL }}" type="text/javascript"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/kute.js@1.6.5/kute.min.js"></script> <!-- core KUTE.js -->
+<script src="https://cdn.jsdelivr.net/npm/kute.js@1.6.5/kute-jquery.js"></script> <!-- jQuery Plugin -->
+<script src="https://cdn.jsdelivr.net/npm/kute.js@1.6.5/kute-css.js"></script> <!-- CSS Plugin -->
+<script src="https://cdn.jsdelivr.net/npm/kute.js@1.6.5/kute-svg.js"></script> <!-- SVG Plugin -->
+<script src="https://cdn.jsdelivr.net/npm/kute.js@1.6.5/kute-text.js"></script> <!-- Text Plugin -->
+<script src="https://cdn.jsdelivr.net/npm/kute.js@1.6.5/kute-attr.js"></script> <!-- Attributes Plugin -->
+
 <script type="text/javascript">
     $(document).ready(function() {
         // the body of this function is in assets/js/now-ui-kit.js
-        nowuiKit.initSliders();
+        // nowuiKit.initSliders();
+
+        var el = document.querySelector('.navbar-translate-00');
+        var tween = KUTE.fromTo(el, {left: 0}, {left: 100}, {repeat: 1,yoyo: true,easing: 'easingCubicOut'});
+
+        tween.start();
+
     });
 
     function scrollToDownload() {
@@ -44,7 +58,9 @@
                 clearInterval(waiting);
             }
             cnt++;
-            }, 200);
+        }, 200);
+
+
     });
 
 </script>

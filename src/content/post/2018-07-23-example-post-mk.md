@@ -5,7 +5,7 @@ date: '2018-07-23'
 slug: example-post-000
 categories: ['r', 'hugo']
 tags: ['example','こうら']
-image: "img/bg4.jpg"
+image: "images/top_header_00.jpg"
 ---
 
 ### こうらのブログ　ポスト000

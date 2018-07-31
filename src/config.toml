@@ -76,8 +76,8 @@ publishDir = "../docs"
 
 
 [params]
-    background = "/img/bg11.jpg"
-    tint = "orange"
+    background = "/images/top_header_00.jpg"
+    tint = "black"
     custom_css = ["css/highlight.min.css","css/shards.min.css","css/shards-demo.min.css","css/shards-extras.min.css"]
     custom_js = ["shards.min.js","demo.min.js"]
     date_format = "Mon, Jan 2, 2006"

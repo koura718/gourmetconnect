@@ -23,6 +23,9 @@ jobs:
 
     working_directory: /home/circleci/src/github.com/koura718/
     steps:
+      - add_ssh_keys:
+          fingerprints:
+            - "2d:e3:a6:2a:36:73:33:7b:de:eb:bb:07:77:70:1e:e9"
       - checkout
       # specify any bash command here prefixed with `run: `
       - run: 

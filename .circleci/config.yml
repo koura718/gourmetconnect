@@ -33,3 +33,10 @@ jobs:
             echo $HOME
             date
             hugo version
+            echo $BASH_ENV
+            uname -a
+            pwd
+            ls -la
+            echo $HOME
+            ls -la $HOME
+

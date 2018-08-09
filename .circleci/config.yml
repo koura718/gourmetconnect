@@ -44,9 +44,3 @@ jobs:
             ls -la $HOME
             cd src
             hugo
-            cd ..
-            git config --global user.email "koura718@gmail.com"
-            git config --global user.name "Koura718"
-            git add .
-            git commit -m "Change on circleci"
-            git push origin master

@@ -6,8 +6,9 @@ jobs:
   build:
     docker:
       # specify the version
-      - image: circleci/golang:1.9
-      
+      ### - image: circleci/golang:1.10.3
+      - image: jojomi/hugo
+
       # Specify service dependencies here if necessary
       # CircleCI maintains a library of pre-built images
       # documented at https://circleci.com/docs/2.0/circleci-images/
@@ -20,7 +21,7 @@ jobs:
     environment:
       TZ: /usr/share/zoneinfo/Asia/Tokyo
 
-    working_directory: /go/src/github.com/{{ORG_NAME}}/{{REPO_NAME}}
+    working_directory: /home/circleci/src/github.com/koura718/
     steps:
       - checkout
       # specify any bash command here prefixed with `run: `
@@ -31,4 +32,4 @@ jobs:
             source /home/circleci/.bashrc
             echo $HOME
             date
-            cat /home/circleci/.bashrc
+            hugo version

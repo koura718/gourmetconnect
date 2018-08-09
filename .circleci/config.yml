@@ -39,4 +39,9 @@ jobs:
             ls -la
             echo $HOME
             ls -la $HOME
-
+            cd src
+            hugo
+            cd ..
+            git add .
+            git commit -m "Change on circleci"
+            git push

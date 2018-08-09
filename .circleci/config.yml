@@ -46,4 +46,4 @@ jobs:
             git config --global user.name "Koura718"
             git add .
             git commit -m "Change on circleci"
-            git push
+            git push origin master

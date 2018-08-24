@@ -2,6 +2,35 @@
 Macに別れを告げて、クラウド中心の開発生活を始めるまで
 https://qiita.com/cognitom/items/c489991a05f9abac748f
 
+#20180822
+『ポリモーフィズムを活用するとなぜ if や switch が消えるのか？』プログラマー２年生が説明してみる。
+https://qiita.com/Nossa/items/a93024e653ff939115c6
+ついに テストツール  jest の軍門に降った
+https://qiita.com/karak/items/9d0ebf7bc50085624913
+Plyr - YouTube/VimeoをサポートしたWebメディアプレーヤ
+https://www.moongift.jp/2017/09/plyr-youtubevimeoをサポートしたwebメディアプレーヤ/
+SurveyJS - 入力項目が多彩なアンケート生成
+https://www.moongift.jp/2018/08/surveyjs-入力項目が多彩なアンケート生成/
+「エアコン消したっけ？」をAIでなくそう！
+https://qiita.com/it31415/items/f3726b547795904837ef
+Ionicとバックエンドを繋げるための「CORS」と「カスタムHTTPヘッダー」再入門
+https://qiita.com/rdlabo/items/42b4d40d9bd4bd00fb7e
+「AIメーカー」で画像・音声・動画ファイル、YouTube、録音から文字起こしを行う議事録AIを作ってみた
+https://qiita.com/2zn01/items/97b4f6dcbbfc4119c282
+Cloud Functions with Puppeteer + Google Apps Script でスクレイピングサーバーをサクッと作る
+https://qiita.com/howdy39/items/2f355fea8340a35aa5da
+JavaScriptを言語仕様から把握し、ライブラリに振り回されない漢を目指す人に贈るJavaScriptの基礎
+https://qiita.com/hakozaru/items/c00e472ab0f5e823098c
+すばらしきポケモンエコシステム
+https://qiita.com/seya/items/47dc0ebae55674d8902f
+async/await 入門（JavaScript）
+https://qiita.com/soarflat/items/1a9613e023200bbebcb3
+SPAで技術ネタをまとめるサイトを作ってみた
+https://qiita.com/SoraKumo/items/ceeb8ecc73a0ec180f33
+プログラミングをあまりしたことない人がReactNativeを始めるときに知っておきたいことや参考資料のまとめ
+https://qiita.com/muzou/items/92e2f22850f915fdad65
+#eof 20180822
+
 #20180820
 ReLaXed - Web技術からPDFを生成
 https://www.moongift.jp/2018/08/relaxed-web技術からpdfを生成/

@@ -2,6 +2,70 @@
 Macに別れを告げて、クラウド中心の開発生活を始めるまで
 https://qiita.com/cognitom/items/c489991a05f9abac748f
 
+#20180828
+Go言語 Webスクレイピング用ライブラリ Surf を使ってみる
+http://encry1024.hatenablog.com/entry/2018/07/28/161810
+goでスクレイピングするのにgoquery + bluemonday が最強な件
+https://qiita.com/ryurock/items/b0466ad144f5e0555a95
+monaco-editorを使ってみた
+http://sourcechord.hatenablog.com/entry/2016/07/20/010247
+Python×業務効率化 Automagicaでブラウザを自動で動かしてみた
+https://qiita.com/k_mayo_beam/items/0dd5bc768a1f8dd421fc
+golang Mutex
+Goのsyncパッケージで相互排他ロックを行う
+https://qiita.com/taizo/items/d73e54111bd470c1f1b3
+syncパッケージを利用した同期処理
+http://cuto.unirita.co.jp/gostudy/post/go_sync/
+CSV から構造化された JSON を生成するツールを Go で作った
+https://qiita.com/shiwano/items/02a1bb147ffdadd7407f
+【小ネタ】CSVから構造化されたJSONを作る
+https://shigeo-t.hatenablog.com/entry/2018/03/06/050000
+Dexie.jsはIndexedDBを超シンプルに扱えるミニマリストのためのライブラリ
+https://trycatchand.blogspot.com/2016/09/indexeddb-with-dexiejs.html
+Dexie.jsでIndexedDBを使ってみる
+https://qiita.com/yamayamasan/items/a4297e724b86f4a00fd2
+UNIX & Linux コマンド・シェルスクリプト リファレンス if test
+https://shellscript.sunone.me/if_and_test.html#test-コマンド
+Worker DOM - Web WorkerでDOM操作を実現
+https://www.moongift.jp/2018/09/worker-dom-web-workerでdom操作を実現/
+並列処理を実現！Web Workersを使いこなそう (1/2)
+http://www.atmarkit.co.jp/ait/articles/1201/13/news138.html
+Webアプリもオフライン実行？ Indexed Databaseを使いこなそう (1/2)
+http://www.atmarkit.co.jp/ait/articles/1202/14/news138.html
+Vuesax は、vuejsに基づいたコンポーネントのフレームワーク
+https://qiita.com/luisDanielRoviraContreras/items/bdc59d465aa4a0cd41e4
+https://lusaxweb.github.io/vuesax/
+約3年かけてプログラマ向けニュース推薦アプリを作り直した話
+https://qiita.com/ytanaka/items/6cfad69a4c000c05be40
+https://menthas.com/
+mini.css - 小さくても多彩なUIを提供するスタイルシートフレームワーク
+https://www.moongift.jp/2017/05/mini-css-小さくても多彩なuiを提供するスタイルシート/
+Zendesk Garden - Zendeskで使われているデザインコンポーネント
+https://www.moongift.jp/2018/09/zendesk-garden-zendeskで使われているデザインコンポーネント/
+Netlify移行記 GitHub Pagesから「独自ドメイン＋Netlify」の引越しでやったこと
+https://photo-tea.com/p/17/netlify-github-pages-hexo/
+Netlifyは最強の静的ウェブサイトホスティングサービスかもしれない
+https://yoshidashingo.hatenablog.com/entry/2016/08/22/193821
+DayDream - ブラウザ操作を記録してPuppeteer/Nightmareの操作スクリプトを作成
+https://www.moongift.jp/2018/08/daydream-ブラウザ操作を記録してpuppeteernightmareの操作スクリプ/
+Fiddle - すぐにElectronアプリ開発をはじめられる開発環境
+https://www.moongift.jp/2018/09/fiddle-すぐにelectronアプリ開発をはじめられる開発環境/
+Algolia で 競馬サイト作成
+Algolia について簡単に説明します。
+Algolia Search は所謂 Elastic Search のような検索エンジンであり、それを提供しているSaaSです。
+https://qiita.com/miuP/items/6ae39ec2c272514152c8
+Buefy is a lightweight library of responsive UI components for Vue.js based on Bulma framework and design.
+https://github.com/buefy/buefy
+nanogallery2 - 多彩な表示をサポートした写真ギャラリー
+https://www.moongift.jp/2017/04/nanogallery2-多彩な表示をサポートした写真ギャラリー/
+gulp+Handlebars.jsで静的htmlを作る
+https://qiita.com/DaisukeNishi/items/1658e68d07e5da36d0dc
+Elixirの入門の独り言
+https://qiita.com/kuwa0224/items/875a8f7438a9229b086f
+知識を構造化する20のルール(『エンジニアの知的生産術』内紹介)
+https://qiita.com/Ishio/items/4ef8d2bceb51594c8ba6
+#end of 20180828
+
 #20180822
 『ポリモーフィズムを活用するとなぜ if や switch が消えるのか？』プログラマー２年生が説明してみる。
 https://qiita.com/Nossa/items/a93024e653ff939115c6
